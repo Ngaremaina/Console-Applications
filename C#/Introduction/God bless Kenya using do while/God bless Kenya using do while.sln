@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "God bless Kenya using do while", "God bless Kenya using do while\God bless Kenya using do while.csproj", "{974F32F8-34AC-421F-A6C9-6F878035474B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974F32F8-34AC-421F-A6C9-6F878035474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974F32F8-34AC-421F-A6C9-6F878035474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974F32F8-34AC-421F-A6C9-6F878035474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974F32F8-34AC-421F-A6C9-6F878035474B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C9848E-74BC-437C-83C6-AE1BE2E40EE2}
+	EndGlobalSection
+EndGlobal

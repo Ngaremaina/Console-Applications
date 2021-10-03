@@ -23,7 +23,7 @@ public class Number {
 
         System.out.println("The square of "+number+" = "+square+", the cube = "+cube
                 +", the square root = "+squareroot
-        +" and the cube root = "+cuberoot);
+                +" and the cube root = "+cuberoot);
 
     }
 }

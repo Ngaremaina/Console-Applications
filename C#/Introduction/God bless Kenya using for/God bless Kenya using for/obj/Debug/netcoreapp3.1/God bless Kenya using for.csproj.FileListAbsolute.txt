@@ -1,0 +1,13 @@
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.exe
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.deps.json
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.runtimeconfig.json
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.runtimeconfig.dev.json
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.dll
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\bin\Debug\netcoreapp3.1\God bless Kenya using for.pdb
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.AssemblyInfoInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.AssemblyInfo.cs
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.dll
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.pdb
+D:\Projects\C#\Introduction\God bless Kenya using for\God bless Kenya using for\obj\Debug\netcoreapp3.1\God bless Kenya using for.genruntimeconfig.cache

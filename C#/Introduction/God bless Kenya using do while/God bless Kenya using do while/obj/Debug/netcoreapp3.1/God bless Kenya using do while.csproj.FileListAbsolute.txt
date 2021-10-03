@@ -1,0 +1,13 @@
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.exe
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.deps.json
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.runtimeconfig.json
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.runtimeconfig.dev.json
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.dll
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\bin\Debug\netcoreapp3.1\God bless Kenya using do while.pdb
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.AssemblyInfoInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.AssemblyInfo.cs
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.dll
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.pdb
+D:\Projects\C#\Introduction\God bless Kenya using do while\God bless Kenya using do while\obj\Debug\netcoreapp3.1\God bless Kenya using do while.genruntimeconfig.cache

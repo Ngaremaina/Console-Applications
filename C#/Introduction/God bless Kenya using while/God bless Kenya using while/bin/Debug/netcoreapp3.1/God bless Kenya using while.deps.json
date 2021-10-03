@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "God bless Kenya using while/1.0.0": {
+        "runtime": {
+          "God bless Kenya using while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "God bless Kenya using while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

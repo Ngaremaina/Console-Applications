@@ -1,0 +1,13 @@
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.exe
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.deps.json
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.json
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.runtimeconfig.dev.json
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.dll
+D:\Projects\C#\Introduction\Age\Age\bin\Debug\netcoreapp3.1\Age.pdb
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfoInputs.cache
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.AssemblyInfo.cs
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.dll
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.pdb
+D:\Projects\C#\Introduction\Age\Age\obj\Debug\netcoreapp3.1\Age.genruntimeconfig.cache

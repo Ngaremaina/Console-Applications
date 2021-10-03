@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Converting km to m/1.0.0": {
+        "runtime": {
+          "Converting km to m.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converting km to m/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

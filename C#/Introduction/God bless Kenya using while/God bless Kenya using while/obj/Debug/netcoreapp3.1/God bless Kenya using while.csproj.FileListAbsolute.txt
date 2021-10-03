@@ -1,0 +1,13 @@
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.exe
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.deps.json
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.runtimeconfig.json
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.runtimeconfig.dev.json
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.dll
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\bin\Debug\netcoreapp3.1\God bless Kenya using while.pdb
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.AssemblyInfoInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.AssemblyInfo.cs
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.dll
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.pdb
+D:\Projects\C#\Introduction\God bless Kenya using while\God bless Kenya using while\obj\Debug\netcoreapp3.1\God bless Kenya using while.genruntimeconfig.cache
