@@ -1,0 +1,14 @@
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.exe
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.deps.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.runtimeconfig.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.runtimeconfig.dev.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\bin\Debug\netcoreapp3.1\Divisibility by 8 using for.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.csproj.AssemblyReference.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.AssemblyInfoInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.AssemblyInfo.cs
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Divisibility by 8 using for\Divisibility by 8 using for\obj\Debug\netcoreapp3.1\Divisibility by 8 using for.genruntimeconfig.cache

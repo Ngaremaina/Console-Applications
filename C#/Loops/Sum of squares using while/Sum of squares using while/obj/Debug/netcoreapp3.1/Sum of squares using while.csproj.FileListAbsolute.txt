@@ -1,0 +1,13 @@
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.exe
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.deps.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.runtimeconfig.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.runtimeconfig.dev.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\bin\Debug\netcoreapp3.1\Sum of squares using while.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.AssemblyInfoInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.AssemblyInfo.cs
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of squares using while\Sum of squares using while\obj\Debug\netcoreapp3.1\Sum of squares using while.genruntimeconfig.cache

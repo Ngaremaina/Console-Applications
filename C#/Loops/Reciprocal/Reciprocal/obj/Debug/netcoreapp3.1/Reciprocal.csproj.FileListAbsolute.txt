@@ -1,0 +1,13 @@
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.exe
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.deps.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.runtimeconfig.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.runtimeconfig.dev.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\bin\Debug\netcoreapp3.1\Reciprocal.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.AssemblyInfoInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.AssemblyInfo.cs
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Reciprocal\Reciprocal\obj\Debug\netcoreapp3.1\Reciprocal.genruntimeconfig.cache

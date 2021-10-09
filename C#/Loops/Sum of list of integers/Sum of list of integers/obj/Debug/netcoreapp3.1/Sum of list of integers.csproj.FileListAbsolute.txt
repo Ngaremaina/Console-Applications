@@ -1,0 +1,13 @@
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.exe
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.deps.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.runtimeconfig.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.runtimeconfig.dev.json
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\bin\Debug\netcoreapp3.1\Sum of list of integers.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.AssemblyInfoInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.AssemblyInfo.cs
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.csproj.CoreCompileInputs.cache
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.dll
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.pdb
+D:\Projects\Console Applications\Console-Applications\C#\Loops\Sum of list of integers\Sum of list of integers\obj\Debug\netcoreapp3.1\Sum of list of integers.genruntimeconfig.cache
