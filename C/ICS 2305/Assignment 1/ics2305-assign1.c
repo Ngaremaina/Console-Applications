@@ -4,7 +4,7 @@
 //  Description    : This is the main source code for for the first assignment
 //                   of ics2305 at JKUAT.
 //
-//   Author        : Group 7
+//   Author        : Owen Ngare
 //   Last Modified : 13/10/2021
 //
 
