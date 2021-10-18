@@ -39,7 +39,7 @@ int main(int argc, char *argv[]) {
     //File pointer
     FILE * fPtr;
     //Opening the test-input.txt file
-    fPtr = fopen("C:\\Users\\USER\\OneDrive\\Documents\\IT\\3\\3.2\\Assignment\\assign1\\test-input1.txt", "r");
+    fPtr = fopen("C:\\Users\\USER\\OneDrive\\Documents\\test-input1.txt", "r");
     if(fPtr == NULL)
     {
         /* Unable to open file hence exit */
