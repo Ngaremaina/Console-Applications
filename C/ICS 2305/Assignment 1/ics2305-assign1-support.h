@@ -18,7 +18,7 @@
 //  Description   : This is a set of general-purpose utility functions we use
 //                  for the homework assignment #1.
 //
-//  Author   : Group 7
+//  Author   : Owen Ngare
 //  Created  : 13/10/2021
 
 //
