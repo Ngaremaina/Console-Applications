@@ -89,7 +89,7 @@ int main(int argc, char *argv[]) {
 
     // Step #5 - fill up the new array, count most frequent values
      //Declaring an array of size 25
-    int m_array[]={25,25,43,54,65,64,75,8,9,14,2,13,44,65,67,74,81,97,17,27,53,44,65,89,67};
+    int m_array[25];
 
     // NOTE ** THIS IS PROVIDED CODE, JUST CREATE FUNCTIONS AS IN ASSIGNMENT
     printf("3^i mod 17\n");
