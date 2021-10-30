@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Area and Circumference of Circle/1.0.0": {
+        "runtime": {
+          "Area and Circumference of Circle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Area and Circumference of Circle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

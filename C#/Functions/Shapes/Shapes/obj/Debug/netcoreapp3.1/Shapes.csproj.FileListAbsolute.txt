@@ -1,0 +1,13 @@
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

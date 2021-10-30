@@ -1,0 +1,13 @@
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.exe
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.deps.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.runtimeconfig.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.runtimeconfig.dev.json
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.dll
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\bin\Debug\netcoreapp3.1\Gross Pay.pdb
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.AssemblyInfoInputs.cache
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.AssemblyInfo.cs
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.dll
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.pdb
+D:\Projects\Github\Console Applications\Console-Applications\C#\Functions\Gross Pay\Gross Pay\obj\Debug\netcoreapp3.1\Gross Pay.genruntimeconfig.cache

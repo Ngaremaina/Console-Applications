@@ -42,7 +42,7 @@ int integer_evens(float f_array[]){
     printf("The number of even in the integer array is %d",count_even);
 }
 int make_array(int m_array[], int range, int exp, int mode){
-    int ans,answ;
+    int ans;
 
     for (int i=0; i<range; i++){
         ans=pow(exp,i);
@@ -79,8 +79,8 @@ int graph_functions(float s,float u){
     float x,y,a,b;
     init_grid();
 
-    for (y=-MAX_Y;y<=MAX_Y;y+=0.1){
-        for (x=-MAX_X;x<=MAX_X;x+=0.1){
+    for (x=-MAX_X;x<=MAX_X;x+=0.1){
+        for (y=-MAX_Y;y<=MAX_Y;y+=0.1){
             a = (cos(x)*s);
             b = (sin(x)*u);
             plot(rintf(x*10),rintf(a*10));
