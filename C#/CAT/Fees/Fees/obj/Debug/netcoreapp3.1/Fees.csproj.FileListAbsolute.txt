@@ -1,0 +1,14 @@
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.exe
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.deps.json
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.runtimeconfig.json
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.runtimeconfig.dev.json
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.dll
+D:\Projects\C#\CAT\Fees\Fees\bin\Debug\netcoreapp3.1\Fees.pdb
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.csproj.AssemblyReference.cache
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.AssemblyInfoInputs.cache
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.AssemblyInfo.cs
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.dll
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.pdb
+D:\Projects\C#\CAT\Fees\Fees\obj\Debug\netcoreapp3.1\Fees.genruntimeconfig.cache

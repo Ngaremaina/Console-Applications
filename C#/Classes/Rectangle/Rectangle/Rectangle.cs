@@ -26,10 +26,13 @@ namespace Rectangle
         public void perimeter()
         {
             int perimeter = 2 * (P_length + P_width);
+            Console.WriteLine("The perimeter is " + perimeter);
         }
         public void area()
         {
             int area = P_length * P_width;
+            Console.WriteLine("The area is " + area);
         }
     }
+    
 }

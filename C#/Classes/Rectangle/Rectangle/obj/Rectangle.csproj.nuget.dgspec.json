@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Github\\Console Applications\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj": {}
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Github\\Console Applications\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj": {
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Github\\Console Applications\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj",
         "projectName": "Rectangle",
-        "projectPath": "D:\\Projects\\Github\\Console Applications\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj",
+        "projectPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\Rectangle.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Github\\Console Applications\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\obj\\",
+        "outputPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Classes\\Rectangle\\Rectangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio\\Tools\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

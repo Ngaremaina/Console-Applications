@@ -1,0 +1,10 @@
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\bin\Debug\Multiplication Table Form.exe.config
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\bin\Debug\Multiplication Table Form.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\bin\Debug\Multiplication Table Form.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication_Table_Form.Form1.resources
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication_Table_Form.Properties.Resources.resources
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication Table Form.csproj.GenerateResource.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication Table Form.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication Table Form.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication Table Form.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Multiplication Table Form\Multiplication Table Form\obj\Debug\Multiplication Table Form.csproj.AssemblyReference.cache

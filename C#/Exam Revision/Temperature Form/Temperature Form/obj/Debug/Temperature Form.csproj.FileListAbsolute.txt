@@ -1,0 +1,10 @@
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\bin\Debug\Temperature Form.exe.config
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\bin\Debug\Temperature Form.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\bin\Debug\Temperature Form.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature Form.csproj.AssemblyReference.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature_Form.Form1.resources
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature_Form.Properties.Resources.resources
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature Form.csproj.GenerateResource.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature Form.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature Form.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Temperature Form\Temperature Form\obj\Debug\Temperature Form.pdb

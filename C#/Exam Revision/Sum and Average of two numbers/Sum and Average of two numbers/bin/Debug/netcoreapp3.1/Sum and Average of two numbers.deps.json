@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sum and Average of two numbers/1.0.0": {
+        "runtime": {
+          "Sum and Average of two numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum and Average of two numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

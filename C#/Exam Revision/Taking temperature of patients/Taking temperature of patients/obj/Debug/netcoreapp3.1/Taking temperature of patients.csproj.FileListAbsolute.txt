@@ -1,0 +1,14 @@
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.deps.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.runtimeconfig.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.runtimeconfig.dev.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.dll
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\bin\Debug\netcoreapp3.1\Taking temperature of patients.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.csproj.AssemblyReference.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.AssemblyInfoInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.AssemblyInfo.cs
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.dll
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Taking temperature of patients\Taking temperature of patients\obj\Debug\netcoreapp3.1\Taking temperature of patients.genruntimeconfig.cache

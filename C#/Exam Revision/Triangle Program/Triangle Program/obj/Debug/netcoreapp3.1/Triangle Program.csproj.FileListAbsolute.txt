@@ -1,0 +1,13 @@
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.exe
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.deps.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.runtimeconfig.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.runtimeconfig.dev.json
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.dll
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\bin\Debug\netcoreapp3.1\Triangle Program.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.AssemblyInfoInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.AssemblyInfo.cs
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.csproj.CoreCompileInputs.cache
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.dll
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.pdb
+D:\Projects\Github\Console\Console-Applications\C#\Exam Revision\Triangle Program\Triangle Program\obj\Debug\netcoreapp3.1\Triangle Program.genruntimeconfig.cache

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Console Applications\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj": {}
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Console Applications\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj": {
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Console Applications\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj",
         "projectName": "Multiplication table using do while",
-        "projectPath": "D:\\Projects\\Console Applications\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj",
+        "projectPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\Multiplication table using do while.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Console Applications\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\obj\\",
+        "outputPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\Loops\\Multiplication table using do while\\Multiplication table using do while\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\Visual Studio\\Tools\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

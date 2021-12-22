@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\bin\Debug\CalenderExercise.exe.config
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\bin\Debug\CalenderExercise.exe
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\bin\Debug\CalenderExercise.pdb
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\obj\Debug\CalenderExercise.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\obj\Debug\CalenderExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\obj\Debug\CalenderExercise.exe
+C:\Users\hp\source\repos\CalenderExercise\CalenderExercise\obj\Debug\CalenderExercise.pdb

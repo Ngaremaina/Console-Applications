@@ -1,0 +1,13 @@
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\kelvin\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+D:\Projects\C#\Class\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Projects\C#\Class\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Projects\C#\Class\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Projects\C#\Class\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Projects\C#\Class\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Class\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Projects\C#\Class\Arrays\Arrays\obj\Debug\Arrays.pdb

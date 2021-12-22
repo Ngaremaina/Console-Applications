@@ -10,9 +10,10 @@ namespace Rectangle
       */
         static void Main(string[] args)
         {
-
-            
-            
+            Rect rectangle = new Rect();
+            rectangle.input();
+            rectangle.area();
+            rectangle.perimeter();
         }
     }
 }
