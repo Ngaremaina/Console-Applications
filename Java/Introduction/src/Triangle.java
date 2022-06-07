@@ -5,20 +5,21 @@ import java.io.InputStreamReader;
 
 public class Triangle {
     public static void main(String[] args) throws IOException {
-        int length, width, height, area, perimeter;
+        int base, height, hypotenuse, perimeter;
+        double area;
 
         InputStreamReader inputStreamReader=new InputStreamReader(System.in);
         BufferedReader bufferedReader=new BufferedReader(inputStreamReader);
 
-        System.out.println("Enter the length of the triangle");
-        length=Integer.parseInt(bufferedReader.readLine());
-        System.out.println("Enter the width of the triangle");
-        width=Integer.parseInt(bufferedReader.readLine());
+        System.out.println("Enter the base of the triangle");
+        base=Integer.parseInt(bufferedReader.readLine());
+        System.out.println("Enter the hypotenuse of the triangle");
+        hypotenuse=Integer.parseInt(bufferedReader.readLine());
         System.out.println("Enter the height of the triangle");
         height=Integer.parseInt(bufferedReader.readLine());
 
-        area=length*width*height;
-        perimeter=length+width+height;
+        area=0.5*base*height;
+        perimeter=base+hypotenuse+height;
 
         System.out.println("The area of the triangle = "+area+" and the perimeter = "+perimeter);
 
