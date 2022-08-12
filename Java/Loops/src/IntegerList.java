@@ -10,6 +10,7 @@ If he/she enters 2 4 5 0 the sum should be 11 and if he enters 5 4 6 0 12 43 2
 the sum should 15 i.e. only numbers before zero are summed.
 The rest are ignored and the program terminated.
  */
+
 public class IntegerList {
     public static void main(String[] args) throws IOException {
         int i, sum=0, elements,input;

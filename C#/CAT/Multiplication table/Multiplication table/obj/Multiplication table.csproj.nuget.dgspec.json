@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj": {}
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj": {
+    "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj",
+        "projectUniqueName": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj",
         "projectName": "Multiplication table",
-        "projectPath": "D:\\Projects\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj",
+        "projectPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\CAT\\Multiplication table\\Multiplication table\\Multiplication table.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\CAT\\Multiplication table\\Multiplication table\\obj\\",
+        "outputPath": "D:\\Projects\\Github\\Console\\Console-Applications\\C#\\CAT\\Multiplication table\\Multiplication table\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\Visual Studio\\Tools\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88efa0c3-cba1-4c18-af3c-24731bcb74b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/Data Structures and Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/src/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data Structures and Algorithms/src/Ratio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/Functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/out/production/Functions/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Smallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Functions/src/WholeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/MultiplicationTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Arrays/Table/MultiplicationTable/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Introduction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Introduction/.idea/Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Introduction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Introduction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/Multiplication_Table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kotlin/Loops/Multiplication_Table/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/.vs/Multiplication table/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/.vs/Multiplication table/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/.vs/Multiplication table/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/.vs/Multiplication table/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/Multiplication table.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/Multiplication table.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/Multiplication table.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/Multiplication table.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Multiplication table.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Multiplication table.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Multiplication table.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/Multiplication table.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/CAT/Multiplication table/Multiplication table/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/.vs/Jagged Array/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/.vs/Jagged Array/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/.vs/Jagged Array/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/.vs/Jagged Array/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/Jagged Array.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/Jagged Array.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Jagged Array/Jagged Array/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C#/Exam Revision/Multiplication Table Form/.vs/Multiplication Table Form/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/Exam Revision/Multiplication Table Form/.vs/Multiplication Table Form/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++/Functions/Total.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++/Functions/Total.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/out/production/Loops/IntegerList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/out/production/Loops/IntegerList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/src/IntegerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/src/IntegerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlin/Loops/Math_Powers/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlin/Loops/Math_Powers/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlin/Loops/Math_Powers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../kotlin/Loops/Math_Powers/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BIQ7eeH2c4UuQez14gtiN3n1Nq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Projects/Github/Console/Console-Applications/Kotlin/Arrays/Table/MultiplicationTable",
+    "settings.editor.selected.configurable": "preferences.updates"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MultiplicationTable">
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temperature" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Temperature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88efa0c3-cba1-4c18-af3c-24731bcb74b6" name="Changes" comment="" />
+      <created>1656590962743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656590962743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

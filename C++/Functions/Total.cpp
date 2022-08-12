@@ -8,7 +8,7 @@ int main()
         k=k+1;
         Sum=calculate_total(sum, k);
 
-    }while(k<=30);
+    }while(k<=70);
     cout<<"The total is "<<Sum;
     return 0;
 }
