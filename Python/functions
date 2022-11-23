@@ -1,0 +1,14 @@
+def getInfo(name):
+    strData=print("Hello, ",name)
+    moreInfo(name)
+    return strData
+
+def info():
+    myname=input("Your Name ->")
+    strData=getInfo(myname)
+    print(strData)
+
+def moreInfo(jina):
+    strData=print("My name is "+ jina)
+    return strData
+info()
