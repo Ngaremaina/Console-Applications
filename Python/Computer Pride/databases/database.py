@@ -1,8 +1,8 @@
 import sqlite3
-
-connection = sqlite3.Connection("students.db")
+# create a connection to our database
+connection = sqlite3.Connection("school.db")
 
 if connection:
     print("Successful")
 else:
-    print("Unsuccessful")
+    print("Connection Error")
