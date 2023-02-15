@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    line-height: 150%;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 24px;
+    font-size: 24px;
+}
+
+footer, header, main, nav{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+header{
+    background-color: #80ed99;
+    font-size: 200%;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 24px;
+    color: #2c443c;
+    /* border-radius: 12px; */
+}
+
+nav{
+    background-color: #22577a;
+}
+
+nav a{
+    display: block;
+    padding: 24px;
+}
+
+nav a:hover, nav a:visited, nav a:link, nav:active{
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+footer{
+    background-color: #80ed99;
+    padding: 24px;
+}
+
+form button{
+    background-color: #779e7f;
+    color: white;
+    border: 2px solid #38a3ab;
+    font-size: 100%;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+form input{
+    border: 2px solid #38a3ab;
+    background-color: #ccc;
+    padding: 12px;
+    font-size: 100%;
+    border-radius: 6px;
+}

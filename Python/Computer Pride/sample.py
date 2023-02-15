@@ -1,21 +1,12 @@
-#Concatenation -> joining two or more strings together
-#it's done using the addition operator - '+'
-# first_name = "Owen"
-# last_name = "Ngare"
-# name=first_name+last_name
-# print(first_name + last_name)
-# print(name)
+# Concatenation -> joining two or more string together
+# its done using the addition operator - '+'
+first_name = input("Enter your First Name: ")
+last_name = input("Enter your Last Name too: ")
 
-first_name=input("Enter your first name: -> ")
-last_name=input("Enter your last name: -> ")
 
-print(first_name + " " + last_name)
-
-# string formatting
+# String formatting
+print(first_name + " " + last_name + ".")
 # f-string
-print(f"My name is {first_name} {last_name}")
-# format()
-print("My name is: {} {}".format(first_name, last_name))
-print("My names are {first} {last}".format(first=first_name, last=last_name))
-
-
+print(f"My name is: {first_name} {last_name}.")
+# format() 
+print("My name is: {first} {last}.".format(last=last_name, first=first_name))

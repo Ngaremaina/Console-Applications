@@ -56,43 +56,96 @@ a="Cisco Switch"
 #print(a.index("s"))
 
 #2. Count() -> return the number of elements appear in a string
-print(a.count("i")) # return 2
-print(a.count(" ")) # return 1
+# print(a.count("i")) # return 2
+# print(a.count(" ")) # return 1
 
-#3. find() -> searches for a sequence of characters: return the index where that string starts
-print(a.find("tch"))
-print(a.find("xyz"))
-sub="z"
-if a.find(sub)==-1:
-    print(f"{sub} wasn't matched, please try again!")
+# #3. find() -> searches for a sequence of characters: return the index where that string starts
+# print(a.find("tch"))
+# print(a.find("xyz"))
+# sub="z"
+# if a.find(sub)==-1:
+#     print(f"{sub} wasn't matched, please try again!")
     
-#4. lower() -> transforms a string into small letters
-print(a.lower())
+# #4. lower() -> transforms a string into small letters
+# print(a.lower())
 
-#5. upper() -> transforms a string into capital letters
-print(a.upper())
-print(a)
+# #5. upper() -> transforms a string into capital letters
+# print(a.upper())
+# print(a)
 
 #6.startswith()
-print("--------------Startswith-------------------")
-print(a.startswith("C")) #return True
+# print("--------------Startswith-------------------")
+# print(a.startswith("C")) #return True
 
-#7.endswith()
-print("---------------Endswith--------------------")
-print(a.endswith("h")) #return True
+# #7.endswith()
+# print("---------------Endswith--------------------")
+# print(a.endswith("h")) #return True
 
-#8.strip() ->
-b="           Cisco Router         "
-print(len(b))
-print(b.strip())
-#9. strip()
-c="$$$Cisco Router$$$"
-print(c.strip("$"))
-#10. replace()
-print(b.replace(" ",""))
+# #8.strip() ->
+# b="           Cisco Router         "
+# print(len(b))
+# print(b.strip())
 
-#Create a variable to store your name in small letters and change name to have the first letter in caps
-name="sandra"
+# c="$$$Cisco Router$$$"
+# print(c.strip("$"))
 
-print(name.capitalize())
+# print(b.replace(" ",""))
+
+# #Create a variable to store your name in small letters and change name to have the first letter in caps
+# name="sandra kibui"
+
+# print(name.capitalize())
+
+# #10. split() -> splits a string into substring -> return a list []
+d="cisco,juniper,hp,avaya,nortel"
+d=d.split(",")
+print(len(d))
+
+# user_names=input("Please enter your names separated by comma")
+# usernames=user_names.split()
+
+# print(user_names[0].capitalize() + " " + user_names[1].capitalize())
+# print(f"{user_names[0].capitalize()} {user_names[1].capitalize()}" )
+
+#11. join() ->
+a="Cisco Switch"
+print(".".join(d))
+
+#string slicing(slices)
+
+my_string="0 E2 10.110.8.9 [160/5] VIA 10.119.254.6, 0:01:00 Ethernet2"
+
+#lets extract the first IP address in the string -> 10.110.8.9
+
+print(my_string[5:])
+print(my_string[5:59])
+
+print(my_string[0:11])
+print(my_string[:11])
+
+print(my_string[:-48])
+print(my_string[:-49])
+
+print(my_string[-59:-49])
+print(my_string[-59:-48])
+# print(len(my_string))
+
+print(my_string[:])
+print(my_string[::2])
+
+#extract hre2
+print(my_string[52::2])
+part=my_string[::2]
+print(part[-4:-1])
+sub=part[-4:-1]
+#replacing hre to cre and make it upper case
+sub=sub.replace("h","c").upper()
+
+print(".".join(sub))
+#print(sub)
+#printing a string in reverse order using slicing and step
+part=my_string[:]
+sub=part[::-1]
+print(part)
+print(sub)
 

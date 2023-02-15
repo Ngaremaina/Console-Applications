@@ -1,44 +1,35 @@
 num1 = 10
 num2 = 2.5
-# type = "whole" if type(num1) is int else "Floating point"
-var_type=""
 
-def check_type(x):
-    # if type(x)==int:
-    #     var_type="whole"
-    # else:
-    #     var_type="Floating-point"
-    # return var_type
-    data_type="whole" if type(x) == int else "Floating point"
-    return data_type
-#check the type of the variables
-print(f"{num1} is a '{check_type(num1)}' number")
-print(f"{num2} is a '{check_type(num2)}' number")
-# print(f"{num2} is a '{type}' number")
-# print(type(num2))
+print(type(num1))
+print(type(num2))
 
-# arithmetic operators
+# Arithmetic Operators
 
-# addition -> + -> 1 + 2
-# subtraction -> - -> 1 - 2
-# Division -> /
-# Multiplication -> *
-# integer Division -> //
-# raising to a power -> ** ->  10 ** 2
-# modulo -> finding the remainder of a number -> % -> 5 % 2
+# 1. Addition -> + -> 1 + 2
+# 2. subtraction -> - -> 1 - 2
+# 3. Division -> /
+# 4. Multiplication -> *
+# 5. integer division -> //
+# 6. raising to a power -> ** -> 10**2
+# 7. modulo -> finding the remainder of a number -> % -> 5 % 2
 
-#comparison operators
+# Comparison Operators
+# 1. Less than -> <
+# 2. Greater than -> >
+# 3. less than or equal to -> <=
+# 4. Greater than or equal to -> >=
+# 5. Equal to -> ==
+# 6. Not equals !=
 
-# less than -> <
-# greater than -> >
-# less than or equal to -> <=
-# greater than or equal to -> >=
-# equal to -> ==
-# not equals -> !=
+# Order of evaluation in a mathematical expression
 
-# order of evaluation in a mathematical expression
-print(100-5**2/5*2)
+# Type conversion
+a = 1.99999
+b = 2
 
-a=1.7
-b=2
 print(int(a))
+print(float(b))
+
+
+
