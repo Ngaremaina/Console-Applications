@@ -8,5 +8,5 @@ else:
     print("Connection Error")
     
 #create a table in our database called student
-sql = """CREATE table student
-        (id )"""
+# sql = """CREATE table student
+#         (id )"""
