@@ -116,3 +116,16 @@ class Ticket:
         
     def to_pdf(self):
         pass
+    
+name = input("Enter your Full Names: ")
+seat_id = input("Preferred Seat Number: ")
+card_type = input("Your card type: ")
+card_number = input("Your card number: ")
+card_cvc = input("Your card cvc: ")
+card_holder = input("Card Holder Name: ")
+
+user = User(name)
+seat = Seat(seat_id)
+card = Card(card_type, card_number,card_cvc, card_holder)
+
+print(user.buy(seat, card))
