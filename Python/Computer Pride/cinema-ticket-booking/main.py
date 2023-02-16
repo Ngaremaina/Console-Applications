@@ -120,8 +120,8 @@ class Ticket:
 name = input("Enter your Full Names: ")
 seat_id = input("Preferred Seat Number: ")
 card_type = input("Your card type: ")
-card_number = input("Your card number: ")
-card_cvc = input("Your card cvc: ")
+card_number = int(input("Your card number: "))
+card_cvc = int(input("Your card cvc: "))
 card_holder = input("Card Holder Name: ")
 
 user = User(name)
